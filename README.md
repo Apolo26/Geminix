@@ -1,8 +1,8 @@
-# React + Vite
+# GEMINIX 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clon de Gemini hecho con React+Vite.
 
-Currently, two official plugins are available:
+![sparkle](https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Animaciones con Framer Motion
