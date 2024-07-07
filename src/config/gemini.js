@@ -4,7 +4,7 @@ import {
   HarmBlockThreshold,
 } from "@google/generative-ai";
 
-// Obtener la API key desde las variables de entorno de Vite
+
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 const genAI = new GoogleGenerativeAI(apiKey);
 
@@ -27,7 +27,6 @@ async function runChat(prompt) {
   });
 
   const result = await chatSession.sendMessage(prompt);
-  console.log (result.response.text());
   return result.response.text();
 }
 

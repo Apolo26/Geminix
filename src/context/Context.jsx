@@ -1,7 +1,6 @@
 import { createContext, useState } from "react";
 import runChat from "../config/gemini";
 
-// Define el contexto
 export const Context = createContext();
 
 const ContextProvider = (props) => {
